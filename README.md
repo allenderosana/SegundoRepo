@@ -1,2 +1,2 @@
-# SegundoRepo
-Este es un repositorio de prueba del modulo 2
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde mi repo local
+
